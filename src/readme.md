@@ -5,4 +5,4 @@
 utilizando:
 - HTML
 - CSS
-- JAVASCIPT
+- JAVASCRIPT
