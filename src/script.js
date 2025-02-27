@@ -13,5 +13,5 @@ function CalcularIdade() {
         idade = 125;
     }//idade limite da operação
     
-    document.getElementById("resultado").innerHTML = `Sua idade é: ${idade}`;
+    document.getElementById("resultado").innerHTML = `idade é: ${idade}`;
 }
